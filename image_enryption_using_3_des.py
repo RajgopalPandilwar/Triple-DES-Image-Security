@@ -6,7 +6,6 @@ Encrypts and decrypts image files using the Triple DES symmetric-key block ciphe
 Triple DES applies the DES cipher three times (encrypt-decrypt-encrypt) for enhanced security.
 
 Author: Rajgopal Pandilwar
-Based on original work by Vatshayan.
 """
 
 import matplotlib.pyplot as plt
