@@ -7,9 +7,6 @@ Encryption and decryption of images using the Triple DES (3DES) algorithm — a 
 **Rajgopal Pandilwar**
 
 ## Based On Original Work By
-
-This project is based on original work by **Vatshayan** — [Original Repository](https://github.com/Vatshayan/Image-Security-by-Triple-DES-Final-Year-Project)
-
 ## What is Triple DES?
 
 In cryptography, Triple DES (officially the Triple Data Encryption Algorithm) applies the DES cipher algorithm three times to each data block for enhanced security.
